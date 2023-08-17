@@ -1,0 +1,22 @@
+.form {
+    text-align: center;
+
+    color: aliceblue;
+    margin: auto;
+    background-image: url(https://pbs.twimg.com/profile_images/1431102571570245633/47e1d5W6_400x400.jpg);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 400px;
+}
+
+button {
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+label {
+    font-size: 18px;
+}

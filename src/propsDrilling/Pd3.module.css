@@ -1,0 +1,26 @@
+.main {
+    background-color: rgb(23, 61, 48);
+}
+
+.main ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+
+}
+
+.main li {
+    color: rgb(7, 7, 7);
+    font-size: 20px;
+    padding: 14px 16px;
+    cursor: pointer;
+
+}
+
+.main ul li:hover {
+    background-color: rgb(190, 190, 118);
+    color: #fff;
+
+}
